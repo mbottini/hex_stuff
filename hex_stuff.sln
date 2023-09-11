@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Common", "Common\Common.fsproj", "{67B465CD-CE19-43F1-96E6-103037FC155C}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "CharToBytes", "CharToBytes\CharToBytes.fsproj", "{D1B45249-82D8-4D7D-A3BA-34136D884E7E}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "BytesToChar", "BytesToChar\BytesToChar.fsproj", "{CADD1EDD-FD94-48B6-AE91-C59A4BA86354}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67B465CD-CE19-43F1-96E6-103037FC155C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67B465CD-CE19-43F1-96E6-103037FC155C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67B465CD-CE19-43F1-96E6-103037FC155C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67B465CD-CE19-43F1-96E6-103037FC155C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1B45249-82D8-4D7D-A3BA-34136D884E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1B45249-82D8-4D7D-A3BA-34136D884E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1B45249-82D8-4D7D-A3BA-34136D884E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1B45249-82D8-4D7D-A3BA-34136D884E7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CADD1EDD-FD94-48B6-AE91-C59A4BA86354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CADD1EDD-FD94-48B6-AE91-C59A4BA86354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CADD1EDD-FD94-48B6-AE91-C59A4BA86354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CADD1EDD-FD94-48B6-AE91-C59A4BA86354}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
